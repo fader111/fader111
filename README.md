@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrey (@fader111)
 - 👀 I’m interested in reinforcement learning and generative approach in ML.
 - 🌱 I’m currently learning LSTM to positioning sequenced objects
-- 💞️ I’m looking to collaborate on unsupervised learning driven projects.
+- 💞️ I’m looking to collaborate on unsupervised learning approach-driven projects.
 - 📫 How to reach me fader@mail.ru
 
 <!---
